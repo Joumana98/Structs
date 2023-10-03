@@ -1,0 +1,2 @@
+# Structs
+ Exercises about records
